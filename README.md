@@ -1,2 +1,0 @@
-# cdmx
-cdmx.xiiber.com
